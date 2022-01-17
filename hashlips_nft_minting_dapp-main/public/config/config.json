@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2c181a89cc49fb5236be5b0a5c9e4d78630cc3ea",
+  "SCAN_LINK": "https://polygonscan.com/address/0x2c181a89cc49fb5236be5b0a5c9e4d78630cc3ea",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Ramsey",
+  "SYMBOL": "RT",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ramset",
+  "SHOW_BACKGROUND": true
+}
